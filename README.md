@@ -1,5 +1,5 @@
 
-This is all about my internship experience at 'Krishagni Solutions Pvt Ltd'. I will not take it too much longer. I will try to put it as much as short. Because I know, most of us don't like to read the stuff except personal interest. So I will try to put it short. My English is not too good, hence there is a possibility of sentence building and grammar mistakes.
+This is all about my internship experience at 'Krishagni Solutions Pvt Ltd'. I will not take it too much longer. I will try to put it as much as short. Because I know, most of us don't like to read the stuff except personal interest. So I will try to put it short. My English is not too good, hence there is a possibility of mistakes in sentence building and grammar.
 
 This is my first internship. I can't forget my first assignment in my internship. I got it before the joining date. So I started to do a study about it and also I wrote the whole code of that assignment. (Of course, it was the whole source code in my point of view only). On the second day of the joining, I got that, I haven't talked with Boss and I wrote the whole source code. It was the first mistake. From this, the journey of making mistakes and learning from them got started. 
 
